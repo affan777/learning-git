@@ -4,3 +4,5 @@ created by Linus Torvald
 it stores files and history of those files
 
 Github- online source code hosting platform- Bitbucket, gitlab
+
+Google atlassian git cheatsheet.
