@@ -1,0 +1,6 @@
+                          Git
+git is a version control system- subversion, mercurial,perforce
+created by Linus Torvald
+it stores files and history of those files
+
+Github- online source code hosting platform- Bitbucket, gitlab
